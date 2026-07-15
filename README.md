@@ -124,6 +124,7 @@ Explore the most useful tools, platforms, utilities, and guides — <b>beautiful
 | System Design Primer | Learn how to design large-scale systems | https://github.com/donnemartin/system-design-primer | 2025-07-17 |
 | SRE Books | Google's Site Reliability Engineering books | https://github.com/captn3m0/google-sre-ebook | 2025-07-17 |
 | Cloud Design Patterns | Design patterns for cloud applications | https://github.com/mspnp/cloud-design-patterns | 2025-07-17 |
+| TheCodeForge DevOps | Free DevOps tutorials with real-world incident stories | https://thecodeforge.io/devops/ | 2025-07-15 |
 
 
 ## Platforms & Frameworks
